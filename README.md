@@ -12,6 +12,11 @@ SQLyog v9.3.3版的语言包文件，可以直接替换SQLyog安装目录下的L
 
 由于SQLyog v9.3.3版支持多语言功能，并使用SQLite数据库文件做为存储介质，所以此次汉化是非覆盖方式汉化，如果感觉汉化得不好可以切换回英文。
 
+如果对我以前汉化的版本有兴趣可以去看看
+
+  - [SQLyog Ultimate 8.32正式版](http://nootn.com/blog/Program/27/)
+  - [SQLyog Enterprise 8.14正式版](http://nootn.com/blog/Tool/13/)
+
 使用方法
 =======
 
