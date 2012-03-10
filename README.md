@@ -1,3 +1,10 @@
+SQLyog Ultimate v9.6.2版下载
+=======
+
+下载地址：http://115.com/file/be775qxx
+此版本已经完全支持简体中文了，这个项目已经无意义了，呵呵！
+
+
 SQLyog Ultimate v9.3.3版下载
 =======
 
